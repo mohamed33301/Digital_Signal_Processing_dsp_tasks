@@ -1,0 +1,2 @@
+Fs=100
+Excpected output = 5/100
